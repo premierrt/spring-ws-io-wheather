@@ -1,0 +1,9 @@
+http://stackoverflow.com/questions/6001136/how-can-i-add-current-eclipse-project-to-git-with-egit
+
+cd ~/workspace/my-project
+git init .
+
+https://myshittycode.com/2013/10/01/using-spring-web-services-and-jaxb-to-invoke-web-service-based-on-wsdl/
+
+http://bytearray.brixtonjunkies.com/2009/10/27/soap-debugging-with-tcpdump/
+
